@@ -1,0 +1,7 @@
+## Interface: 20503
+## Title: Scrap Delete
+## Author: S3rR1
+## Version: 1.0
+## Notes: Remove any scrap items when the inventory is full
+
+main.lua
